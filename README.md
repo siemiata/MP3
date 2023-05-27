@@ -1,7 +1,7 @@
 # MP3
 • Klasa abstr/ polimorfizm 
 {
-Klasa Dog dziedziczy po abstrakcyjnej klasie Animal
+Klasa Dog i Cat dziedziczy po abstrakcyjnej klasie Animal oraz dziedziczą metodę speak()
 }
 • Overlapping 
 {
