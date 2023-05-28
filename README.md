@@ -5,7 +5,7 @@ Klasa Dog i Cat dziedziczy po abstrakcyjnej klasie Animal oraz dziedziczą metod
 }
 • Overlapping 
 {
-
+Klasa abstrakcyjna Person, dziedziczą po niej klasy Owner i Trainer, enum wskazujący na overlaping
 }
 • Wielodziedziczenie 
 {
