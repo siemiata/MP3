@@ -1,6 +1,6 @@
 public class Cat extends Animal{
-    String color;
-    int height;
+    private String color;
+    private int height;
 
     public Cat(String name,String color, int height) {
         super(name);
