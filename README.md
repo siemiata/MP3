@@ -16,7 +16,7 @@
 
 • Wieloaspektowe 
 {
-
+- W klasie Person jest atrybut prosty płeć, oraz 2 opcjonalne dla każdej z płci
 }
 
 • Dynamiczne
